@@ -1,0 +1,26 @@
+{
+  "name": "hernan-reiq-bot",
+  "version": "1.0.0",
+  "description": "Bot de Telegram hecho por Hernan Reiq",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hernanreiq/hernan-reiq-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hernanreiq/hernan-reiq-bot/issues"
+  },
+  "homepage": "https://github.com/hernanreiq/hernan-reiq-bot#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "telegraf": "^4.0.2"
+  }
+}
