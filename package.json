@@ -4,6 +4,7 @@
   "description": "Bot de Telegram hecho por Hernan Reiq",
   "main": "index.js",
   "scripts": {
+    "start": "node bot.js",
     "dev": "nodemon bot.js"
   },
   "repository": {

@@ -1,6 +1,6 @@
 const { Telegraf } = require('telegraf');
 
-const bot = new Telegraf('1534356021:AAFRr57zChs3l3DYvacLIbOexQrToAhr6dc');
+const bot = new Telegraf('1685059923:AAH9FwL3ZpnCiQuhXRkYMMic_np0kHz0dhU');
 
 function teclado(ctx){
     return ctx.reply('Mira mis comandos en el teclado.', {
